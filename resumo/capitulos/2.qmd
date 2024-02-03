@@ -1,0 +1,43 @@
+---
+layout: default
+title: "O RECONHECIMENTO INSTITUCIONAL  DOS PROBLEMAS REGIONAIS"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Carlota_Pereira_de_Queiroz%2C_%C3%BAnica_mulher_da_Assembleia_Constituinte_de_1934.tif/lossy-page1-800px-Carlota_Pereira_de_Queiroz%2C_%C3%BAnica_mulher_da_Assembleia_Constituinte_de_1934.tif.jpg
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+
+Em 1889, o Brasil deixa de ser um Estado unitário na forma de Império e passa a ser uma República Federativa, numa mudança que manteve o domínio das elites regionais sobre o governo central. Queiroz (2006) argumenta que as regiões eram controladas pelas oligarquias (coronéis), que impunham seu poder pessoal por meio da posse, do clientelismo, das relações de amizade, das trocas e do patrimonialismo no trato da coisa pública, não havendo distinção entre o público e o privado no Estado brasileiro. Esse período – que durou de 1889, proclamação da República, até a revolução que colocou Getúlio Vargas no poder, em 1930 – ficou marcado na historiografia brasileira como Primeira República, ou República Velha.([-@book p.27])
+
+Nesse período foram construídas ferrovias e estradas próximas aos centros ex-portadores, mas nenhuma que conectasse todo o Brasil, como foram propostas, várias vezes, no século XIX pelos planos viários, destacados anteriormente. Diferentemente do passado – quando o motivo para se integrar uma região, sobretudo por meio de estradas de ferro, podia ser político, econômico ou “civilizatório” –, na República Velha, o crescimento da economia paulista priorizou a dimensão econômica no âmbito do projeto nacional brasileiro, o qual manteve o foco na integração do território. Tratava-se de criar um mercado nacional integrado, em contraposição às economias regionais, relativamente autônomas, que marcaram os séculos anteriores. No entanto, estados afetados por esse “federalismo desigual” demandavam recursos e ações do governo federal, pois muitos de seus problemas eram recorrentes e extrapolavam os limites estaduais, como as secas no semiárido nordestino.([-@book p.27-28])
+
+Na República Velha, o marco institucional de reconhecimento dos problemas regionais foi a criação da Inspetoria de Obras contra as Secas (Iocs) pelo presidente Nilo Peçanha, instituída pelo Decreto no 7.619, de 21 de outubro de 1909, que passou a ser vinculada ao Ministério da Viação e Obras Públicas. A instituição teria como atribuições a responsabilidade pela realização de estudos e obras de combate às secas, sendo dividida em várias seções entre os estados do Piauí e o norte de Minas Gerais. Entre as ações, destacavam-se a perfuração de poços e a construção de estradas de rodagem, de açudes públicos e de reservatórios; e cabe ressaltar que a instituição seria responsável pela fiscalização e identificação de lugares onde as obras deveriam ser executadas por estados e municípios. O mapa 8 mostra a delimitação da área de atuação da Iocs a partir de sua criação, em 1909.([-@book p.28-29])
+
+
+## A Contituição Federal de 1934
+
+Nesse contexto, a Constituição Federal de 1934 reconhece as secas como um problema regional ao propor, no art. 177, a formação de um plano sistemático e permanente, a cargo da União, contra os efeitos das secas, inclusive com valor mínimo de aplicação da receita tributária, que, segundo Macedo (2014, p. 27) reforçava os interesses conservadores ligados à solução hidráulica do Nordeste.([-@book p.31])
+
+![Poligono das Secas](../assets/img/maps/image-018.png)
+
+Note-se que não havia um projeto de desenvolvimento que englobasse os problemas regionais sob a ótica nacional nem o delineamento de uma região complexa, conforme um conjunto de critérios de distintas naturezas, como o que ocorreu a partir do final dos anos 1950.([-@book p.33])
+
+## Um Adendo Metodológico: A Região e a Regionalização
+
+Embora os dois exemplos tenham como base a regionalização do espaço em função de fenômenos naturais – escassez hídrica e cobertura vegetal –, as regiões de planejamento podem ser criadas com base em critérios de natureza social, geralmente de caráter socioeconômico, conforme será destacado nos capítulos posteriores, sobretudo no que diz respeito à regionalização adotada no âmbito da Política Nacional de Desenvolvimento Regional (PNDR), a partir de 2007.([-@book p.33])
+
+Por sua vez, a noção de região como resultado de um processo de ocupação socioespacial se relaciona com o reconhecimento do processo de diferenciação de áreas, responsável pela conformação de regiões complexas, baseadas nas múltiplas relações entre fenômenos naturais (cobertura vegetal, tipos climáticos, bacias hidrográficas, estrutura geológica etc.) e sociais (distribuição de atividades econô-micas sobre o território nacional, níveis de desenvolvimento socioeconômico nas diversas porções do espaço geográfico etc.). Geralmente este tipo de regionalização fundamenta-se em propósitos didáticos, ou seja, no esforço intelectual de reconhecer e delimitar geograficamente padrões de diferenciação espacial, sendo possível o uso de diversas escalas geográficas e múltiplos fenômenos naturais e sociais, sem que seja necessário considerar os limites político-administrativos vigentes.([-@book p.33-34])
+
+
+# Resumo
+
+A proclamação da república marca o inicio de um novo arranjo institucional que ira mudar a forma como os arranjos regionais serão tratados e deixará marcas profundas na contrução das politicas regionais no futuro. A forma de atuação do estado na republica velha estava fundada nas relações clientelistas e de poder internas a cada estado. Obras de interligação de zona exportadoras foram propostas do plano local para o nacional.
+
+Foi nesse momento, afirmam, que se deu incio as primeiras ações de entrentamento a seca em escad regional. É criado em 1909 a Inspetoria de Obras de Combate a Seca - Iocs - que se dedicaria principalmente a contrução de estradas e poços com o obetivo de mitigar os efeitos da seca e urilizar a mão de obra dos flagelados. O projeto trazia uma atenção de atender demandas sociais a respeito do tema, mas na prática o controle das elites locais sobre a alterquia resultou em refrenquentes usos pessoais dos recursos e obras do orgão.
+
+Diferente do clima quente da politica nacional durante a Nova Republica, os planos de regionalização do brasil sequiram frios durante o período. Com exeção da elaboração do Poligono das Secas e a inclusão do combate a seca na contituição de 1934, pouco de fato foi executado no periodo. O que de fato se consolida no período é uma maior reflexão tecnica sobre a questão que irá servir de base para a elaboração de politicas na subsequente era desenvolvimentista.
+

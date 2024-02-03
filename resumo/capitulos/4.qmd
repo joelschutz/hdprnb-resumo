@@ -1,0 +1,24 @@
+---
+layout: default
+title: "O DEBATE SOBRE A ORIGEM DAS DESIGUALDADES REGIONAIS NO BRASIL"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celso_Furtado.tif/lossy-page1-800px-Celso_Furtado.tif.jpg
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+
+## Ruy Moreira
+
+## Francisco de Oliveira
+
+## Celso Furtado
+
+## Wilson Cano
+
+# Resumo
+
+Este capítulo irá apresentar uma série de autores clássicos que moldaram o pensamento regionalista no país. O principal marco entre os autores é o debate sobre as origens, causas e permanencia das desigualdades entre as regiões brasileiras.

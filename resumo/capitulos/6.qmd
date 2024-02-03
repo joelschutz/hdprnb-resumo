@@ -1,0 +1,19 @@
+---
+layout: default
+title: "A RECONFIGURAÇÃO DO ESTADO E DAS POLÍTICAS  DE DESENVOLVIMENTO REGIONALL"
+image: https://prati.com.br/wp-content/uploads/2019/01/Porto-Alegre-McDonalds-Pra%C3%A7a-da-Alf%C3%A2ndegaacevo-Henry-Chmelnitsky-1990.jpg
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+
+## A Crise do Modelo Tradicional de Políticas Regionais
+
+## O Crepúsculo dos Fundos de Investimento e a Emergência dos Fundos Contitucionais
+
+## O Suposto Fim do Modelo
+

@@ -1,0 +1,58 @@
+---
+layout: default
+title: "Precedentes das Políticas Regionais: Planos Viários e Ações de combate a seca"
+image: https://super.abril.com.br/wp-content/uploads/2016/12/seca-2.jpg?quality=70&strip=all&w=1024&crop=1
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+Inicialmente, as ações se voltaram mormente para a conexão física entre as diversas regiões brasileiras, sobretudo por meio da instalação de infraestrutura de comunicações e de trans-portes, com o objetivo de facilitar o processo de ocupação do interior([-@book p.15])
+
+## Planos Viários
+destacou essa atenção ao mostrar que o imperador Pedro I, em 1828, sancionou uma lei na qual obras para navegação fluvial, abertura de canais ou construção de estradas que perpassassem mais de uma província seriam responsabilidade do Império – ou melhor, do ministro e do secretário de Estado dos Negócios do Império –, de modo que ficaria a cargo dos governos locais e provinciais somente obras em suas respectivas localidades.([-@book p.15])
+
+Diogo Antônio Feijó, regente do Império, assim como Dom Pedro I, também expôs suas intenções de conectar o país ao autorizar, em 1835, a construção de estradas de ferro que interligassem a capital (Rio de Janeiro) com Minas Gerais, Rio Grande do Sul e Bahia. Entretanto, o primeiro plano de viação geral somente foi proposto pelo conselheiro José Silvestre Rebelo em 1838, com o objetivo de construir três estradas reais que ligariam a capital ao então sudeste, noroeste e norte do Brasil, conforme o mapa 1, reconstituído pelo Ministério dos Transportes com base no Plano Rebelo. ([-@book p.15])
+
+- Planos Imperiais
+  - Plano Rebelo(1838)
+    - Esboço
+    - Ocupação
+    - Falta de Recursos
+  - Plano Moraes(1869)
+    - Defesa
+  - Planos Queiroz(1874, 1882)
+    - Conexão
+    - Integração
+    - Planejamento financeiro
+  - Plano Rebouças(1874)
+    - Conexão continental
+    - teórico
+  - Plano Bicalho(1881)
+    - Conexão fluvial
+    - Conexão ferroviaria
+  - Plano Bulões(1882)
+    - Centralidade legislativa
+    - Integração norte-sul
+    - conexão ferroviaria
+
+![Plano Rebouças](../assets/img/maps/image-013.png)
+
+Galvão (1996, p. 189) cita dois fatores que contribuíram para a não efeti-vação dos planos mencionados: a falta de recursos financeiros, tanto por parte do Império como por desinteresse do capital britânico, em face do baixo retorno econômico previsto; e a resistência das elites agrárias brasileiras, uma vez que a maior acessibilidade espacial representaria ameaça ao seu poder político – isto é, poderia culminar em maior presença do governo central nas regiões dominadas.([-@book p.22-23])
+
+## As Secas No Noerdeste
+
+Em 1725, o capitão-mor da Paraíba solicitou auxílio para a população flagelada ao rei de Portugal, Dom João V, e ele recomendou o estímulo à plantação de mandioca para combater a pre-guiça e a fome. Em 1859, no período imperial, o Barão de Capanema propôs ao governo a aclimatação de camelos ao sertão nordestino([-@book p.24])
+
+Esse conjunto de iniciativas demonstra a falta de conhecimento sobre as condições naturais, políticas e econômicas locais, além de certo preconceito racial, o que explica parte do insucesso das empreitadas realizadas no período.([-@book p.24])
+
+# Resumo
+
+Os autores apresentam nesse primeiro capitulo aquilo que a literatura apresenta como o berço do planejamento regional no Brasil. Desde o Império se controem difernetes planos viários com multiplos propósitos e soluções. Em sua maioria elaborados pela elite da época, a conexão de transportes, a defesa das fronteiras e falta de recursos marca tais projetos. Notam que naquele momento havia uma separação de responsabilidades entre imprério e governos locais, sendo reservado ao primeiro apenas obras interprovincial.
+
+Ainda marcam a questão da Seca que tera grande protagonismo nos periodos subsequentes, mas nesse primeiro momento é auxente da palta publica. São citadas proposta de assistência aos "Flagelados" e as origens do sonho da Transposição do Rio São Francisco.
+
+Embora desconexões na palta do estado monarquista brasileiro, essas duas preocupação - a conexão com o enterior e a Seca no Nordeste - serão centrais nos principais planos subsequentes e na construção da politica publica regional.

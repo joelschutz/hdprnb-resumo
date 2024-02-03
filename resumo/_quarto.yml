@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: Resumo
+  reader-mode: true
+  favicon: assets/img/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+
+permalinks:
+  performances: /:slug/
+
+csl: abnt-phi.csl
+bibliography: citation-344660681.bib

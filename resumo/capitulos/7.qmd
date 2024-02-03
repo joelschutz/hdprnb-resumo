@@ -1,0 +1,16 @@
+---
+layout: default
+title: "O ESTADO E AS POLÍTICAS REGIONAIS NO PERÍODO RECENTE"
+image: https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3014450:1606149419/transposi%C3%A7%C3%A3o.jpg?f=16x9&h=698&w=1280&$p$f$h$w=a76ab48
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+
+## A Política Nacional de Desenvolvimento Regional(PNDR)
+
+## Balanço das Políticas Regionaos(2007-2018)

@@ -1,0 +1,4 @@
+---
+title: "About"
+---
+Criado por [Joel Schutz](https://github.com/joelschutz) para a Disciplina de *Políticas Públicas do Desenvolvimento Regional* da [UFRGS](https://ufrgs.br)

@@ -1,0 +1,19 @@
+---
+layout: default
+title: "O MODELO CLÁSSICO DE POLÍTICAS DE  DESENVOLVIMENTO REGIONAL"
+image: https://acervo.oglobo.globo.com/incoming/9528021-8ea-f15/imagemHorizontalFotogaleria/2013-635447729-2013080768166.jpg_20130807.jpg
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+
+## Introdução
+
+## Criação da SUDENE
+
+## O Modelo Reproduzido e Modificado no Regime Militar
+
+## O Planejamento Regional nos Planos Nacionais de Desenvolvimento
+
