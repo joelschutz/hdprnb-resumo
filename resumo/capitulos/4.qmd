@@ -11,14 +11,40 @@ editor:
 
 ## Introdução
 
+Analisando as contribuições desses autores, Silva (2017b) indica que a for-mulação política e teórica da questão regional brasileira apresentou discordâncias, embora haja certo consenso na literatura de que, a partir de meados do século XX, as desigualdades regionais no país teriam se reforçado e ganhado a configuração atual, em decorrência do processo de industrialização desencadeado nos anos 1880, e se intensificado a partir dos anos 1930.([-@book p.47])
+
 ## Ruy Moreira
+
+Segundo o autor, a emergência da industrialização em 1880 teria extinguido a correlação entre arranjos geoeconômicos e geobotânicos, culminando na divisão territorial do trabalho, especialmente a partir de 1950, quando se atinge a integração nacional e surge a diferenciação qualitativa na concentração industrial, gerando a centralização em São Paulo e o seu comando sobre o restante do país. Assim, a problemática das desigualdades regionais teria surgido a partir da diferenciação ocasionada pela concentração-centralização industrial e posteriormente financeira no Sul/Sudeste, especialmente em São Paulo.([-@book p.47-48])
+
+Portanto, ao analisar o processo de ocupação socioespacial do Brasil, Moreira (2014, p. 63) aponta que “cada tempo histórico estabelece seus termos próprios de regionalização e relações inter-regionais”.([-@book p.49])
 
 ## Francisco de Oliveira
 
+Na percepção de Francisco de Oliveira (2008, p. 149), a emergência da questão regional deve ser compreendida sob a ótica da divisão regional do trabalho, não sob o enfoque dos desequilíbrios regionais da formulação política e teórica de meados do século XX, em grande medida tributária das contribuições de Celso Furtado, que se baseou na analogia entre centro-periferia presente nas teorias cepalinas (Oliveira, 2006, p. 39).([-@book p.49])
+
+As contradições da reprodução do capital e das relações de produção em cada uma, ou, pelo menos, nas duas principais regiões do país, o Nordeste açucareiro/pecuário-algodoeiro e o Sudeste cafeeiro/industrial, começaram a aparecer como conflito entre as duas regiões, uma em crescimento, outra em estagnação. Foi nesse contexto que, sob a ótica das disparidades regionais, nasceu o planejamento regional para o Nordeste, que se tornou um modelo posteriormente expandido para outras regiões e uma leitura tradicional da questão regional brasileira, como destaca Oliveira (2008, p. 163). ([-@book p.50])
+
 ## Celso Furtado
+
+Na leitura de Furtado, exposta na obra Formação econômica do Brasil (Furtado, 2007, p. 71), do ponto de vista de sua estrutura econômica, o Brasil da metade do século XIX não diferia muito do que fora nos três séculos anteriores. Teria sido justamente a expansão cafeeira realizada a partir desse momento que teria propiciado as modificações na base do sistema econômico, em uma transição econômica que, em conjunto com a transição política ocorrida na primeira metade do século XX, encerrou definitivamente a etapa colonial.([-@book p.51])
+
+Contudo, a decadência econômica e o atraso estrutural de algumas regiões brasileiras seriam anteriores à plena articulação do mercado nacional em torno do Sul/Sudeste industrializado, a exemplo do Nordeste, no qual o atraso relativo não repousa apenas na região semiárida, uma vez que a zona da mata e o agreste também apresentariam atividades econômicas de baixa produtividade, subutilização de terras, insuficiente produção de alimentos, baixa cobertura de serviços públicos essenciais e elevados níveis de pobreza, de desemprego e de subemprego (Furtado, 2009a, p. 175; 2009b, p. 76; 2014, p. 232).([-@book p.51])
+
+Conforme assinala Lima (2009, p. 264), para Celso Furtado o Nordeste é uma região periférica, satélite dos interesses políticos e econômicos dominantes no país, exercendo determinados papéis em um quadro geral de dependência dentro da dependência. Pensando em termos de estruturas, a heterogeneidade regional do Brasil em meados do século XX formava uma constelação de formas de subdesenvolvimento gerada no âmbito de um processo histórico, argumenta Furtado (Menezes e Salmito Filho, 2009, p. 268). Tal constelação de regiões de distintos níveis de desenvolvimento, com uma grande heterogeneidade social e graves problemas sociais, mantém-se até os dias atuais, afirma o economista (IBGE, 2003, p. 11).([-@book p.52])
 
 ## Wilson Cano
 
+Na interpretação de Cano (2002, p. 126), a conscientização política e teórica da questão regional brasileira ocorreu por volta da década de 1950, embora o regionalismo tenha se manifestado nos séculos anteriores, sobretudo nos movimentos revolucionários do século XIX. O agravamento das secas no Nordeste desde fins do século XIX, as disparidades regionais de renda verificadas nas contas regionais de 1951 e 1952 e a concentração de investimentos do Plano de Metas em São Paulo – localizada na região Sul naquela época – contribuíram para o desencadeamento de pressões políticas por parte das demais regiões, que reivindicavam tratamento prioritário para o desenvolvimento (op. cit., p. 127).([-@book p.53])
+
+Portanto, para Cano (2007, p. 313; 2008, p. 15), propostas que visam apenas levar mais recursos às regiões periféricas ou que conclamam maior alocação de indústrias na periferia não consideram a totalidade do problema e não resolverão os desequilíbrios regionais e as necessidades da população. É necessário questio-nar as causas estruturais regionais que perpetuam um quadro social com índices deploráveis de pobreza, como o tabu ideológico que reveste o enfrentamento local de suas estruturas de dominação de renda, propriedade, controle político, acesso ao Estado etc. (Cano, 2008, p. 18)([-@book p.54])
+
 # Resumo
 
-Este capítulo irá apresentar uma série de autores clássicos que moldaram o pensamento regionalista no país. O principal marco entre os autores é o debate sobre as origens, causas e permanencia das desigualdades entre as regiões brasileiras.
+Este capítulo irá apresentar uma série de autores clássicos que moldaram o pensamento regionalista no país. O principal marco entre os autores é o debate sobre as origens, causas e permanencia das desigualdades entre as regiões brasileiras. 
+
+Ruy Moreira irá afirmar que existe uma marcação historica dos termos e propósitos do estado na questão regional com rupturas e reorganizações. Francisco de Oliveira, por sua vez, irá buscar analisar a quetão pela ótica do trabalho, observando que os modos produtivos de cada época e região irão afetar suas politicas publicas regionais. Nota ainda que será apartir das questões economicas dos setores da elite sudestina e nordestina que irão promover a desigualdade entre as regiões no século XX.
+
+Celso Furtado será um dos princiapis expoente do pensamento regional brasileiro e será o criador de duas concepções importantissimas para futuros debates do tema. Em primeiro lugar inaugura a dicotomia *centro-periferia*, ele iria notar que as desigualdades regionais não se limitam a fatores economicos ou geograficos, mas também de acesso a bem e serviços do estado e da economia como um todo. A segunda é a interpretação do fenonemo do *subdesenvolvimento*, a condição de atraso no projeto positivo de crescimento que marca as regiões mais perifericas. Suas concepções são uteis até hoje pois evidenciam aquilo que é central no modelo de politicas regionais, o enfrentamento da pobreza e da fome face a um pais que é rico em diversos aspectos, pais desafios se fazem presentes até os dias atuais.
+
+Os autores do livro citam por fim Wilson Cano, que tem uma perspectiva menos estrutural que Furtado e acredita em uma desigualdade que emergente do processo de desenvolvimento desigual das regiões brasileiras. Nesse sentido, advoga por uma mudança estrutural de estratégia que visa não a busca de uma homogenização do desenvolvimento nacional, mas uma valorização dos aspectos especificos de cada região.
